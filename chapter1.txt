@@ -9,3 +9,9 @@ git log
  git config --global user.name [name]
  git diff [file name]
  git checkout [file name]
+
+push on github 
+
+git remote add origin https://github.com/LaskyLothbrok/story.git
+git branch -M main
+git push -u origin main
